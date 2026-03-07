@@ -1,6 +1,0 @@
-This is the first line of the file.
-Python file handling is easy to learn.
-Reading a file line by line is useful.
-Manas is learning programming.
-Practice makes coding better.
-This is the last line of the sample file.
