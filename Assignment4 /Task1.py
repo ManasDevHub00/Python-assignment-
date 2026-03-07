@@ -6,4 +6,5 @@ try:
             print(line.strip())
 except FileNotFoundError as e:
     print("The file 'Assignment4/Sample.txt' was not found. Please check the file name and try again.")
+
     print(f"Error details: {e}")
